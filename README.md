@@ -15,18 +15,18 @@ A MERN stack application to compare electronic part prices from three different 
 - npm
 ## Directory structure
 part-price-comparator
-├── server
-│   ├── index.js
-│   └── ...
-├── client
-│   ├── src
-│   │   ├── components
-│   │   │   ├── Cart.js
-│   │   │   ├── NavBar.js
-│   │   │   └── ...
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── ...
-│   └── ...
-├── README.md
-└── ...
+-├── server
+-│   ├── index.js
+-│   └── ...
+-├── client
+-│   ├── src
+-│   │   ├── components
+-│   │   │   ├── Cart.js
+-│   │   │   ├── NavBar.js
+-│   │   │   └── ...
+-│   │   ├── App.js
+-│   │   ├── App.css
+-│   │   └── ...
+-│   └── ...
+-├── README.md
+-└── ...
