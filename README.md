@@ -14,7 +14,9 @@ A MERN stack application to compare electronic part prices from three different 
 - Node.js
 - npm
 ## Directory structure
-part-price-comparator
+
+
+-part-price-comparator
 -├── server
 -│   ├── index.js
 -│   └── ...
